@@ -1,2 +1,1 @@
-Learning git <br>
-April 2024
+Welcome to my GitHub profile!
